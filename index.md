@@ -52,11 +52,11 @@ After successful completion of this course, you will be able to:
 
 **TFs:**
 
-|               | **Bernard Kleynhans**              | **Timothy Lee**                    | **Shiyun Qiu**                     | **Yiqi Xie**                     |
-| :---:         | :---:                              | :---:                              | :---:                              | :---:                            |
-| *Email*       | <bernardkleynhans@g.harvard.edu>   | <lee709@g.harvard.edu>             | <shiyunqiu@g.harvard.edu>          | <yiqi_xie@g.harvard.edu>         |
-| *Office*      | IACS Lounge                        | IACS Lounge                        | IACS Lounge                        | IACS Lounge                      |
-| *Office Hours*| Mondays <br> 11 AM - 12 PM         | Thursdays <br> 4 PM - 5 PM         | Wednesdays <br> 10 AM - 11 AM      | Thursdays <br> 3 PM - 4 PM       |
+|               | **Bernard Kleynhans**              | **Timothy Lee**                    | **Shiyun Qiu**                     | **Yiqi Xie**                     | **Benjamin Rafetto**       |
+| :---:         | :---:                              | :---:                              | :---:                              | :---:                            | :---:                      |
+| *Email*       | <bernardkleynhans@g.harvard.edu>   | <lee709@g.harvard.edu>             | <shiyunqiu@g.harvard.edu>          | <yiqi_xie@g.harvard.edu>         | <brafetto@g.harvard.edu>   |
+| *Office*      | IACS Lounge                        | IACS Lounge                        | IACS Lounge                        | IACS Lounge                      | TBD                        |
+| *Office Hours*| Mondays <br> 11 AM - 12 PM         | Thursdays <br> 4 PM - 5 PM         | Wednesdays <br> 10 AM - 11 AM      | Thursdays <br> 3 PM - 4 PM       | TBD                        |
 
 
 ## Meeting Times

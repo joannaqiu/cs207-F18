@@ -65,7 +65,7 @@ After successful completion of this course, you will be able to:
 
 **Lecture Time:**  12:00 PM - 1:15 PM
 
-**Room \#:**  Pierce 301
+**Room \#:** Northwest Building B101
 
 **Lectures are mandatory!**
 

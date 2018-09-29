@@ -89,13 +89,13 @@ will be able to give you a few suggestions if need be.
 There will be two milestones in addition to the final project presentation and report.
 
 ### Milestone 1
-Milestone 1 will be released simultaneously with HW3 on Thursday, October 4th and will be due on Thursday, October 18th.  
+Milestone 1 will be released simultaneously with HW4 on Thursday, October 4th and will be due on Thursday, October 18th.  
 Specific details and requirements will be released with the milestone statement in the `project` directory.  This milestone 
 will require you to clearly outline your proposed software design.  You are not required to implement any specific 
 components at this point.  This milestone will form the precursor to your library documentation. 
 
 ### Milestone 2
-Milestone 2 will be released simultaneously with HW4 on Thursday, October 18th and will be due on Thursday, November 15th.  
+Milestone 2 will be released simultaneously with HW5 on Thursday, October 18th and will be due on Thursday, November 15th.  
 Specific details and requirements will be released with the milestone statement in the `project` directory.  This milestone 
 will require a working library for forward automatic differentiation.  The library does not need to be 100% complete at this 
 time, but the client (teaching staff) should be able install your package and use it for some simple use-cases.  

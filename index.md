@@ -5,7 +5,7 @@ layout: "default"
 
 **Welcome to CS207!**
 
-It is accpeted that computation has emerged as the third pillar of science alongside the 
+It is accepted that computation has emerged as the third pillar of science alongside the 
 pillars of theory and experiment.  Computational science is maturing rapidly and has found 
 considerable and significant use in supporting scientists from various disciplines (including all 
 engineering disciplines, physics, chemistry, finance, biology, and data analysis to name 

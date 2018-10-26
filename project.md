@@ -95,7 +95,7 @@ will require you to clearly outline your proposed software design.  You are not 
 components at this point.  This milestone will form the precursor to your library documentation. 
 
 ### Milestone 2
-Milestone 2 will be released simultaneously with HW5 on Thursday, October 18th and will be due on Thursday, November 15th.  
+Milestone 2 will be released simultaneously with HW5 on Thursday, October 18th and will be due on Thursday, November 8th.  
 Specific details and requirements will be released with the milestone statement in the `project` directory.  This milestone 
 will require a working library for forward automatic differentiation.  The library does not need to be 100% complete at this 
 time, but the client (teaching staff) should be able install your package and use it for some simple use-cases.  
@@ -115,7 +115,7 @@ The final project is worth 50% of your course grade. Here is a breakdown of the 
   - Repository README set up
   - Report detailing proposed software design; will form the beginning of the software documentation
 
-* Milestone 2 (11/15): 15%
+* Milestone 2 (11/8): 15%
   - Working forward mode implementation
     - May be incomplete, but should meet basic requirements (to be outlined later)
   - Packaging and Installation
